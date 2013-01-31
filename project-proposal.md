@@ -1,4 +1,4 @@
-#->CMPT 106 Project Proposal<-
+#CMPT 106 Project Proposal
 
-##->Alpha Group<-
-->Mark Bahnman<-
+## Alpha Group
+Mark Bahnman

@@ -22,8 +22,8 @@ have multiple levels for the player to play through.....
 ####Planning
 * Assign what everyone does here.   
 Sound: Aashkaran  
-Core engine: Artaches, Mark  
-AI: Lukas 
+Core engine: Art, Mark  
+AI: Lukas   
 Level-Design: Tina, Frances  
  
 

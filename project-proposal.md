@@ -13,15 +13,17 @@ Description of what project is
 3. Simple AI
 4. Most, if not all bugs in the game are not present
 5. Many members of the group are familiar with Python and Pygame by the end of the semester
-6. etc etc
+6. 
 
 
 ####Planning
-*Assign what everyone does here. I can do whatever; I am confident in public speaking and writing if it is very technical (not an arts student). Honestly, 8 people programming would either lead to someone (me) not doing enough or something. Delete this paragraph when you're done assigning.
+*Assign what everyone does here. 
 
 ####Programs Used
 
 * Someone please list all, if not most, of the programs we'll be using here.
+* Pygame
+* Github
 
 ####Organization
 * Revising from anyone is welcome 

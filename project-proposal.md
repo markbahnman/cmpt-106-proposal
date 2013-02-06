@@ -2,6 +2,7 @@
 
 ## Alpha Group
 Mark Bahnman
+
 Artaches Ambartsoumian
 
 Super Awesome Mario-like game:
@@ -22,11 +23,17 @@ have multiple levels for the player to play through.....
 ####Planning
 *Assign what everyone does here.
 Music/Soundtrack:
+
 Sound effects:
+
 Core engine: Artaches
+
 Menu: 
+
 AI: Artaches
+
 Level-Design: Artaches
+
 Animations(if any):
 
 

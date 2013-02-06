@@ -4,7 +4,7 @@
 Mark Bahnman  
 Artaches Ambartsoumian
 
-2D Temple Run:  
+pyRun:  
 We're going to make a 2D arcade game using Python 2.7 along with Pygame. Pygame is a free collection of modules for Python
 that gives the developer a set of tools to more easily create games and visual applications in Python. The game will
 have multiple levels for the player to play through.....

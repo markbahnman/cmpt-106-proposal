@@ -4,7 +4,7 @@
 Mark Bahnman  
 Artaches Ambartsoumian
 
-Super Awesome Mario-like game:
+2D Temple Run:  
 We're going to make a 2D arcade game using Python 2.7 along with Pygame. Pygame is a free collection of modules for Python
 that gives the developer a set of tools to more easily create games and visual applications in Python. The game will
 have multiple levels for the player to play through.....
@@ -38,6 +38,5 @@ Level-Design: Tina, Frances
 * Revising from anyone is welcome 
 1. January 31st - February 7th, work on finalizing project proposal & core ideas
 2. Feb 7th - 21st(?), have a clear understanding of pygame and python
-3. Feb 21st(?) - Mar 29th, working on the game, take notes on important steps along the way
-4. Mar 29 - end of semester, fixing & refining game, documentation
-If game is finished early, bonus features will be implemented.
+3. Feb 21st(?) -First Milestone, working on the game, take notes on important steps along the way
+4. First Milestone - end of semester, fixing & refining game, documentation

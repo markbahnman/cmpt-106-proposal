@@ -5,7 +5,7 @@ Mark Bahnman
 Artaches Ambartsoumian  
 Aashkaran Dhillon  
 Tina Tran  
-Lukas Jusman 
+Lukas Jusman   
 Frances Lung  
 William Ong  
 Joel Zhang  

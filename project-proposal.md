@@ -1,6 +1,6 @@
-PyRun:
+##PyRun
 
-Alpha Group Members:  
+###Alpha Group Members  
 Mark Bahnman  
 Artaches Ambartsoumian  
 Aashkaran Dhillon  
@@ -10,7 +10,7 @@ Frances Lung
 William Ong  
 Joel Zhang  
 
-PyRun:
+####PyRun:
 Group Alpha is making a 2D game using Python 2.7 along with Pygame. Pygame is a free collection of modules for the Python
 language that gives the developer a set of tools for creating games and visual applications in Python. PyRun is a
 2D running game where the player has to run through a level/map without dying. The left of the screen will have different themed
@@ -18,7 +18,7 @@ dangers based on the level and it will be moving towards the right at various sp
 fast enough to outrun this oncoming threat. The game will feature multiple levels varying in difficulty and visuals.
 If time permits, enemies will be added alongside better animation.
 
-Criteria:  
+####Criteria:  
 1. Learn enough about Python and Pygame modules to design our game.  
 1. Game runs without any major bugs.  
 2. Degree of game completion.  
@@ -27,7 +27,7 @@ Criteria:
 6. Multiple levels created to keep the player occupied for at least an hour.  
 
 
-Task Assignments:  
+####Task Assignments:  
 Music/Soundtrack: Aashkaran, Lukas  
 Sound effects: Aashkaran, Lukas  
 Core engine: Artaches, Mark  
@@ -44,7 +44,7 @@ Testing: Aashkaran, Artaches, Mark, Tina, Frances, Lukas, William, Joel
 Other/Bonus Game Features: Artaches  
 Overall Progress Recording: William  
 
-Programs that will be in use:  
+####Programs that will be in use:  
 1. Logic Pro 9.1.8  
 2. Python 2.7  
 3. Python IDLE.  
@@ -53,7 +53,7 @@ Programs that will be in use:
 6. Stock images/ other free art databases.  
 7. PhotoShop, Paint, Gimp, other basic art programs.  
 
-Organization:  
+####Organization:  
 January 31st - February 7th: work on finalizing project proposal & core ideas, get the tools needed ready for use: Python 2.7 IDLE, Pygame, Github.  
 February 7th - 28st: Learn & Understand Pygame and Python enough to make simple programs and begin making the game.  
 March 1 - March 15th: Have a working prototype of the game with basic functionality like a single hazard and the character moving on a level.  

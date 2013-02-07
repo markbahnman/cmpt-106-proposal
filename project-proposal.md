@@ -4,8 +4,8 @@ Alpha Group Members:
 Mark Bahnman  
 Artaches Ambartsoumian  
 Aashkaran Dhillon  
-Tina  
-Lucas  
+Tina Tran  
+Lukas Jusman 
 Frances Lung  
 William Ong  
 Joel Zhang  
@@ -28,19 +28,19 @@ Criteria:
 
 
 Task Assignments:  
-Music/Soundtrack: Aashkaran, Lucas  
-Sound effects: Aashkaran, Lucas  
+Music/Soundtrack: Aashkaran, Lukas  
+Sound effects: Aashkaran, Lukas  
 Core engine: Artaches, Mark  
 Score Keeping: Aashkaran  
-Character Design: Lucas, Joel  
-Objects design: Lucas, Artaches, Frances, Tina   
+Character Design: Lukas, Joel  
+Objects design: Lukas, Artaches, Frances, Tina   
 Menu:   
-AI of deathly threats: Artaches, Mark, Lucus  
+AI of deathly threats: Artaches, Mark, Lukas  
 Level-Design: Artaches, Mark, Frances, Tina , William
 Storyboarding: Tina  
 Animation:   
 Debugging: Mark, Artaches, Frances, Tina, William  
-Testing: Aashkaran, Artaches, Mark, Tina, Frances, Lucas, William, Joel  
+Testing: Aashkaran, Artaches, Mark, Tina, Frances, Lukas, William, Joel  
 Other/Bonus Game Features: Artaches  
 Overall Progress Recording: William  
 

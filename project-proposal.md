@@ -6,18 +6,17 @@ Artaches Ambartsoumian
 Aashkaran Dhillon  
 Tina  
 Lucas  
-Frances Lung 
-Willian  
-Joul  
+Frances Lung
+William Ong
+Joel Zhang
 
 PyRun:
-We're going to make a 2D game using Python 2.7 along with Pygame. Pygame is a free collection of modules for the Python
-langauge that gives the developer a set of tools to more easily create games and visual applications in Python. PyRun is going
-to be a 2D running game where a character has to run through a level/map without dieing. The screen will have different level theme
-based dangers on the left of the screen that will be moving to the right at various speeds. The player has to advance through the level
-fast enough to outrun the deathly threats. The game will feature multiple levels varying in dificulty and visual environments/textures.
-The game might have enemies and other bonus features like better animations. However, because we will be learning Python and Pygame
-for a good amount of time, we might not get the time for that.
+Group Alpha is making a 2D game using Python 2.7 along with Pygame. Pygame is a free collection of modules for the Python
+language that gives the developer a set of tools for creating games and visual applications in Python. PyRun is a
+2D running game where the player has to run through a level/map without dying. The left of the screen will have different themed
+dangers based on the level and it will be moving towards the right at various speeds. The player has to advance through the level
+fast enough to outrun this oncoming threat. The game will feature multiple levels varying in difficulty and visuals.
+If time permits, enemies will be added alongside better animation.
 
 Criteria:
 1. Learn enough about Python and Pygame modules to design our game.  
@@ -33,16 +32,17 @@ Music/Soundtrack: Aashkaran, Lucas
 Sound effects: Aashkaran, Lucas  
 Core engine: Artaches, Mark  
 Score Keeping: Aashkaran  
-Character Design: Lucas, Joul  
+Character Design: Lucas, Joel  
 Objects design: Lucas, Artaches, Frances, Tina   
 Menu:   
 AI of deathly threats: Artaches, Mark, Lucus  
-Level-Design: Artaches, Mark, Frances, Tina  
+Level-Design: Artaches, Mark, Frances, Tina , William
 Storyboarding: Tina  
 Animation:   
-Debugging: Mark, Artaches, Frances, Tina  
-Testing: Aashkaran, Artaches, Mark, Tina, Frances, Lucas, Willian, Joul
+Debugging: Mark, Artaches, Frances, Tina, William
+Testing: Aashkaran, Artaches, Mark, Tina, Frances, Lucas, William, Joel
 Other/Bonus Game Features: Artaches 
+Overall Progress Recording: William
 
 Programs that will be in use:  
 1. Logic Pro 9.1.8  

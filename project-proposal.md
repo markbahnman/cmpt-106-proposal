@@ -34,15 +34,15 @@ Sound effects: Aashkaran, Lucas
 Core engine: Artaches, Mark  
 Score Keeping: Aashkaran  
 Character Design: Lucas, Joul  
-Objects design: Lucas, Artaches, Frances, Tina  
-Other Game Features: Artaches  
-Menu: Artaches  
+Objects design: Lucas, Artaches, Frances, Tina   
+Menu:   
 AI of deathly threats: Artaches, Mark, Lucus  
 Level-Design: Artaches, Mark, Frances, Tina  
 Storyboarding: Tina  
 Animation:   
 Debugging: Mark, Artaches, Frances, Tina  
-Testing: Aashkaran, Artaches, Mark, Tina, Frances, Lucas, Willian, Joul  
+Testing: Aashkaran, Artaches, Mark, Tina, Frances, Lucas, Willian, Joul
+Other/Bonus Game Features: Artaches 
 
 Programs that will be in use:  
 1. Logic Pro 9.1.8  
@@ -51,7 +51,7 @@ Programs that will be in use:
 4. Pygame 1.9.1  
 5. Github for project collaboration.  
 6. Stock images/ other free art databases.  
-7. PhotoShop, Paint, basic art programs.  
+7. PhotoShop, Paint, Gimp, other basic art programs.  
 
 Organization:  
 January 31st - February 7th: work on finalizing project proposal & core ideas, get the tools needed ready for use: Python 2.7 IDLE, Pygame, Github.  

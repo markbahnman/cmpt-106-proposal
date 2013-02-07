@@ -1,11 +1,17 @@
 PyRun:
 
 Alpha Group Members:
+
 Mark Bahnman  
+
 Artaches Ambartsoumian
+
 Aashkaran Dhillon
+
 Tina
+
 Lucas
+
 Frances
 Willian
 Joul 

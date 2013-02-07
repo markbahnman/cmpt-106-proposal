@@ -36,7 +36,7 @@ Objects design: Artaches, Frances, Tina
 AI of deathly threats: Artaches, Mark, Lukas  
 Level-Design: Artaches, Mark, Frances, Tina , William  
 Storyboarding: Tina  
-Animation:   
+Animation: Joel, Frances, Tina  
 Debugging/Testing: Everyone; always.  
 Other/Bonus Game Features: Artaches  
 Overall Progress Recording: William  

@@ -1,14 +1,10 @@
 ##PyRun
 
 ###Alpha Group Members  
-Mark Bahnman  
-Artaches Ambartsoumian  
-Aashkaran Dhillon  
-Tina Tran  
-Lukas Jusman   
-Frances Lung  
-William Ong  
-Joel Zhang  
+    Mark Bahnman            Lukas Jusman   
+    Artaches Ambartsoumian  Frances Lung  
+    Aashkaran Dhillon       William Ong  
+    Tina Tran               Joel Zhang  
 
 ####PyRun:
 Group Alpha is making a 2D game using Python 2.7 along with Pygame. Pygame is a free collection of modules for the Python
@@ -21,7 +17,7 @@ If time permits, enemies will be added alongside better animation.
 ####Criteria:  
 1. Learn enough about Python and Pygame modules to design our game.  
 2. Game runs without any major bugs.  
-3. Degree of game completion.  
+3. Basic movement and single level completed by first milestone.
 4. Team members able to use version control to manage working together.  
 5. Many members of the group are familiar with Python and Pygame by the end of the semester.  
 6. Multiple levels created to keep the player occupied for at least an hour.  

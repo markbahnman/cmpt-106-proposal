@@ -2,13 +2,13 @@ PyRun:
 
 Alpha Group Members:  
 Mark Bahnman  
-Artaches Ambartsoumian
-Aashkaran Dhillon
-Tina
-Lucas
-Frances
-Willian
-Joul 
+Artaches Ambartsoumian  
+Aashkaran Dhillon  
+Tina  
+Lucas  
+Frances  
+Willian  
+Joul  
 
 PyRun:
 We're going to make a 2D game using Python 2.7 along with Pygame. Pygame is a free collection of modules for the Python

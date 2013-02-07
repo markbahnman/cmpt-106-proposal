@@ -20,27 +20,24 @@ If time permits, enemies will be added alongside better animation.
 
 ####Criteria:  
 1. Learn enough about Python and Pygame modules to design our game.  
-1. Game runs without any major bugs.  
-2. Degree of game completion.  
-4. Most, if not all bugs in the game are not present.  
+2. Game runs without any major bugs.  
+3. Degree of game completion.  
+4. Team members able to use version control to manage working together.  
 5. Many members of the group are familiar with Python and Pygame by the end of the semester.  
 6. Multiple levels created to keep the player occupied for at least an hour.  
 
 
 ####Task Assignments:  
-Music/Soundtrack: Aashkaran, Lukas  
-Sound effects: Aashkaran, Lukas  
+Audio: Aashkaran, Lukas  
 Core engine: Artaches, Mark  
 Score Keeping: Aashkaran  
 Character Design: Lukas, Joel  
-Objects design: Lukas, Artaches, Frances, Tina   
-Menu:   
+Objects design: Artaches, Frances, Tina   
 AI of deathly threats: Artaches, Mark, Lukas  
-Level-Design: Artaches, Mark, Frances, Tina , William
+Level-Design: Artaches, Mark, Frances, Tina , William  
 Storyboarding: Tina  
 Animation:   
-Debugging: Mark, Artaches, Frances, Tina, William  
-Testing: Aashkaran, Artaches, Mark, Tina, Frances, Lukas, William, Joel  
+Debugging/Testing: Everyone; always.  
 Other/Bonus Game Features: Artaches  
 Overall Progress Recording: William  
 

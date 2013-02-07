@@ -18,7 +18,7 @@ dangers based on the level and it will be moving towards the right at various sp
 fast enough to outrun this oncoming threat. The game will feature multiple levels varying in difficulty and visuals.
 If time permits, enemies will be added alongside better animation.
 
-Criteria:
+Criteria:  
 1. Learn enough about Python and Pygame modules to design our game.  
 1. Game runs without any major bugs.  
 2. Degree of game completion.  

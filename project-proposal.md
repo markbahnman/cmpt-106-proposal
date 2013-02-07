@@ -31,7 +31,7 @@ If time permits, enemies will be added alongside better animation.
 Audio: Aashkaran, Lukas  
 Core engine: Artaches, Mark  
 Score Keeping: Aashkaran  
-Character Design: Lukas, Joel  
+Character Design: Joel  
 Objects design: Artaches, Frances, Tina   
 AI of deathly threats: Artaches, Mark, Lukas  
 Level-Design: Artaches, Mark, Frances, Tina , William  

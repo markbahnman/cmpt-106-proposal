@@ -53,7 +53,7 @@ Programs that will be in use:
 6. Stock images/ other free art databases.  
 7. PhotoShop, Paint, basic art programs.  
 
-Organization:
+Organization:  
 January 31st - February 7th: work on finalizing project proposal & core ideas, get the tools needed ready for use: Python 2.7 IDLE, Pygame, Github.  
 February 7th - 28st: Learn & Understand Pygame and Python enough to make simple programs and begin making the game.  
 March 1 - March 15th: Have a working prototype of the game with basic functionality like a single hazard and the character moving on a level.  

@@ -6,7 +6,7 @@ Artaches Ambartsoumian
 Aashkaran Dhillon  
 Tina  
 Lucas  
-Frances  
+Frances Lung 
 Willian  
 Joul  
 
@@ -17,7 +17,7 @@ to be a 2D running game where a character has to run through a level/map without
 based dangers on the left of the screen that will be moving to the right at various speeds. The player has to advance through the level
 fast enough to outrun the deathly threats. The game will feature multiple levels varying in dificulty and visual environments/textures.
 The game might have enemies and other bonus features like better animations. However, because we will be learning Python and Pygame
-for a good maount of time, we might not get the time for that.
+for a good amount of time, we might not get the time for that.
 
 Criteria:
 1. Learn enough about Python and Pygame modules to design our game.  
@@ -38,11 +38,11 @@ Objects design: Lucas, Artaches, Frances, Tina
 Other Game Features: Artaches  
 Menu: Artaches  
 AI of deathly threats: Artaches, Mark, Lucus  
-Level-Design: Artaches, Mark, Fraces, Tina  
+Level-Design: Artaches, Mark, Frances, Tina  
 Storyboarding: Tina  
 Animation:   
-Debugging: Mark, Artaches, Fraces, Tina  
-Testing: Aashkaran, Artaches, Mark, Tina, Fraces, Lucas, Willian, Joul  
+Debugging: Mark, Artaches, Frances, Tina  
+Testing: Aashkaran, Artaches, Mark, Tina, Frances, Lucas, Willian, Joul  
 
 Programs that will be in use:  
 1. Logic Pro 9.1.8  

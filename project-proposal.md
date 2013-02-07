@@ -1,7 +1,6 @@
 PyRun:
 
-Alpha Group Members:
-
+Alpha Group Members: 
 Mark Bahnman  
 Artaches Ambartsoumian
 Aashkaran Dhillon

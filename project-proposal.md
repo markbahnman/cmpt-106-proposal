@@ -6,9 +6,9 @@ Artaches Ambartsoumian
 Aashkaran Dhillon  
 Tina  
 Lucas  
-Frances Lung
-William Ong
-Joel Zhang
+Frances Lung  
+William Ong  
+Joel Zhang  
 
 PyRun:
 Group Alpha is making a 2D game using Python 2.7 along with Pygame. Pygame is a free collection of modules for the Python
@@ -39,10 +39,10 @@ AI of deathly threats: Artaches, Mark, Lucus
 Level-Design: Artaches, Mark, Frances, Tina , William
 Storyboarding: Tina  
 Animation:   
-Debugging: Mark, Artaches, Frances, Tina, William
-Testing: Aashkaran, Artaches, Mark, Tina, Frances, Lucas, William, Joel
-Other/Bonus Game Features: Artaches 
-Overall Progress Recording: William
+Debugging: Mark, Artaches, Frances, Tina, William  
+Testing: Aashkaran, Artaches, Mark, Tina, Frances, Lucas, William, Joel  
+Other/Bonus Game Features: Artaches  
+Overall Progress Recording: William  
 
 Programs that will be in use:  
 1. Logic Pro 9.1.8  
